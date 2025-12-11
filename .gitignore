@@ -1,0 +1,6 @@
+# YOLO model weights
+yolo11x.pt
+
+# Data folders
+football-field-detection/
+football-players-detection/
