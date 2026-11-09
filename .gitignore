@@ -4,3 +4,9 @@ yolo11x.pt
 # Data folders
 football-field-detection/
 football-players-detection/
+
+# Local credentials and notebook state
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
